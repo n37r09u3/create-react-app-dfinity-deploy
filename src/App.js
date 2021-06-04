@@ -12,7 +12,6 @@ function App() {
         <p>
           Dfinity测试网站部署
         </p>
-        </a>
       </header>
     </div>
   );
