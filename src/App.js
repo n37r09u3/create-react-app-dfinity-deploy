@@ -10,23 +10,8 @@ function App() {
         +
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This app is deployed on Dfinity through Fleek!
+          Dfinity测试网站部署
         </p>
-        <a
-          className="App-link"
-          href="https://dfinity.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn about Dfinity
-        </a>
-        <a
-          className="App-link"
-          href="https://fleek.co"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn about Fleek
         </a>
       </header>
     </div>
